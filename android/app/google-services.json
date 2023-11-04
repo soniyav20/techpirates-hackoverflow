@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998793660634",
+    "project_id": "hackoverflow-b6dc6",
+    "storage_bucket": "hackoverflow-b6dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998793660634:android:2d118846104f2ad785bde3",
+        "android_client_info": {
+          "package_name": "com.example.hackoverflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sg1pwIwZjliOsnZMbWYtmvl68gtMWbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
